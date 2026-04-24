@@ -52,8 +52,7 @@ Face-Mask-Detection/
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/your-username/face-mask-detection.git
-cd face-mask-detection
+git clone https://github.com/aminrustmani/Face-Mask-Detection-Using-Yolo/tree/main
 ```
 
 ### 2. Install Dependencies
